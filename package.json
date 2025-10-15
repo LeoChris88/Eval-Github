@@ -1,0 +1,30 @@
+{
+  "name": "eval-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoChris88/Eval-Github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoChris88/Eval-Github/issues"
+  },
+  "homepage": "https://github.com/LeoChris88/Eval-Github#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
